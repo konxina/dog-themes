@@ -1,2 +1,1 @@
-# elink-theme.el
-from @doglooksgood.
+the newest themes from @doglooksgood.
